@@ -18,6 +18,7 @@ Firefox
 Chrome
 Brave
 discord
+WinDirStat - visualize hard drive files
 
 
 
