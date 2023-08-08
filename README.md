@@ -9,6 +9,9 @@ Used to keep track of programs and software
 
 - *krita-x64-5.0.2-setup.exe - https://download.kde.org/stable/krita/5.1.1/krita-x64-5.1.1-setup.exe - (https://krita.org/en/)
 	- DESCRIPTION - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+- RawTherapee
+  - DESCRIPTION - used to edit raw files 
+ 
 
 ---
 ***Notes***
@@ -36,7 +39,9 @@ Used to keep track of programs and software
 - gvim82.exe -[ https://ftp.nluug.nl/pub/vim/pc/gvim90.exe - (https://www.vim.org/) ](https://www.vim.org/download.php#pc)
   - DESCRIPTION - im is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. 
 - OBS-Studio-28.0.3-Full-Installer-x64.exe - https://obsproject.com/welcome - (https://obsproject.com/)
-  - DESCRIPTION - 
+  - DESCRIPTION -
+- Voicemeeter
+  - DECRIPTION - used for management of audio, can be confusing but very much able to gain full control of sound in and out of your computer.
 - python-3.10.2-amd64.exe - https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe - (https://www.python.org/)
   - DESCRIPTION - Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.
 - VSCodeUserSetup-x64-1.65.2.exe - https://code.visualstudio.com/docs/?dv=win - (https://code.visualstudio.com/)
