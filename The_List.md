@@ -1,6 +1,12 @@
 TOC
 - 
 
+***Org***
+- Resilio Sync, a free App that allows me to sync my phone and tablet/PC. it does require the interet (I would like something where the items talk to each other for syncing) but thats ok. It works very well.
+- 	winget install Resilio.ResilioSync
+
+- 	DeClutter: File Tagger and Organizer https://declutter.top/ - Still learning this one, I hope I can understand it soon. lol. 
+
 
 ---
 
