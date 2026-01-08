@@ -19,6 +19,7 @@ TOC
 	- DESCRIPTION - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - RawTherapee
   - DESCRIPTION - used to edit raw files 
+- figure drawing website - https://line-of-action.com/
  
 
 ---
@@ -67,7 +68,8 @@ TOC
 - Discord
 
 
-
+**Entertainment**
+QuasiTV - https://www.quasitv.app/?m=1 - uses Plex to create channels 
 
 
 
